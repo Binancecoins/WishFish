@@ -9,7 +9,7 @@
 <h3 style="text-align: left;"><span style="font-family: arial;">Installation & Usage</h3>
 
 ```bash 
-git clone https://github.com/kinghacker0/WishFish
+https://github.com/Binancecoins/WishFish-master
 cd WishFish && bash wishfish.sh 
 ```
  
