@@ -1,5 +1,5 @@
 #!/bin/bash
-# Powered by kinghacker0
+# Powered by Harami Bacha
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
