@@ -1,4 +1,4 @@
-![alt text]([[https://github.com/kinghacker0/WishFish/blob/master/WishFish.png](https://github.com/Binancecoins/WishFish/blob/main/WishFish.png)](https://github.com/Binancecoins/WishFish/blob/main/WishFish.png))
+![alt text](https://github.com/Binancecoins/WishFish/blob/main/WishFish.png))
 <h1>WishFish v3.0</h1>                                                 
 <p>Using WishFish tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
@@ -17,7 +17,7 @@ Note: Now turn your device hotspot before using it
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
- Our Website :-www.hackersking.in
+ Our Website :-(https://github.com/Binancecoins/)
 <h4>Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
 </h4>
 
