@@ -14,7 +14,7 @@ echo -e "\033[31m    \  /\  /  | \__ \ | | |\e[0m| |    | \__ \ | | |     ";
 echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v3.0";
 
 printf " \e[1;93m WishFish v3.0\e[0m \n"
-printf " \e[1;77m HARAMI BACHA| MAN KA SHACHA \e[0m \n"
+printf " \e[1;77m Made by| Abdul Mueed 👍\e[0m \n"
 
 printf "\n"
 
